@@ -1,6 +1,6 @@
  ## Hi 👋, I'm Cheng Yunbo。 you can call me【Java学术趴】
 
-<img style="width:50%" src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/developer.svg" />
+<img style="width:30%" align="center" src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/developer.svg" />
 
 ⭐**Talking about myself:**
 
@@ -39,8 +39,7 @@
 
 🧶 <a href="https://www.infoq.cn/profile/198749C57E919B/publish">在百工坊里缝织InfoQ</a>
 
-⛱️ <a href="https://cloud.tencent.com/developer/user/5895312">在雅岚殿里逛云+社区</a> 🚬
+⛱️ <a href="https://cloud.tencent.com/developer/user/5895312">在雅岚殿里逛云+社区</a> 
 
-
-
+<br>
 <img src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/icon.png" />
