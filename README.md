@@ -1,6 +1,8 @@
  ## Hi 👋, I'm Cheng Yunbo。 you can call me【Java学术趴】
 
-<img style="width:30%" align="center" src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/developer.svg" />
+<div align="center">
+ <img style="width:30%" src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/developer.svg" />
+</div>
 
 ⭐**Talking about myself:**
 
