@@ -1,11 +1,14 @@
-
  ## Hi 👋, I'm Cheng Yunbo。 you can call me【Java学术趴】
+
+<img src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/developer.svg" />
+
 ⭐**Talking about myself:**
-- 🎓 I am a college student
-- 🌎 I am going to university in Taiyuan
-- 🔍 I’m looking for help with Algorithms 🔥
-- 💬 Ask me about js library or java✏️
-- 💖 Fun fact: coding or watch live
+
+- 🚀 **Working as** Full-stack Developer & AI Explorer
+- 🌟 **Focus Areas**: Generative AI / LLM Optimization / Algorithm Design
+- 🤖 **Now Building**: Smart Agents with RAG & Reinforcement Learning
+- 🛠️ **Tech Arsenal**: PyTorch • LangChain • AWS • React + TS
+- 💡 **Seeking Collab**: AI-native Applications / Distributed Algorithms
 
 ✨ **Github数据报**
 <br>
@@ -38,6 +41,6 @@
 
 ⛱️ <a href="https://cloud.tencent.com/developer/user/5895312">在雅岚殿里逛云+社区</a> 🚬
 
-💰 **我的公众号**
 
-![](https://img-1259707064.cos.ap-beijing.myqcloud.com/202209041616342.png)
+
+<img src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/icon.png" />
