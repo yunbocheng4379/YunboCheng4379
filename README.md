@@ -23,8 +23,8 @@
 
 📈️**我的工作数据报告**
 <br>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=yunbocheng4379" style="width:50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yunbocheng4379&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=LM20230311" style="width:50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LM20230311&layout=compact" />
 </a>
 <br>
 
