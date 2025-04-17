@@ -46,4 +46,4 @@
 ⛱️ <a href="https://cloud.tencent.com/developer/user/5895312">在雅岚殿里逛云+社区</a> 
 
 <br>
-<img src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/icon.png" />
+<img src="https://img-1259707064.cos.ap-beijing.myqcloud.com/202504171810231.png" />
