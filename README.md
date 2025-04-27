@@ -2,7 +2,7 @@
  
 <br>
 <div align="center">
- <img style="width:30%" src="https://cdn.jsdelivr.net/gh/LM20230311/LM20230311/assets/images/developer.svg" />
+ <img style="width:30%" src="https://img-1259707064.cos.ap-beijing.myqcloud.com/202504271842001.svg" />
 </div>
 <br>
 
